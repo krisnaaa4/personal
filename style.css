@@ -1,0 +1,2316 @@
+.murni-care-desktop-murni-care-desktop {
+  width: 100%;
+  height: 5640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-asset11 {
+  top: 1800.2877197265625px;
+  left: 258.3689270019531px;
+  width: 262px;
+  height: 290px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-asset12 {
+  top: 3000.290771484375px;
+  left: 1215px;
+  width: 262px;
+  height: 290px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-asset13 {
+  top: 5104.28759765625px;
+  left: 189.36892700195312px;
+  width: 262px;
+  height: 290px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-frame41 {
+  top: 788px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 80px 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  /* background-color: var(--dl-color-background&strokes-background); */
+}
+.murni-care-desktop-frame15 {
+  width: 846px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-frame42 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 32px;
+  flex-direction: column;
+}
+.murni-care-desktop-text {
+  color: var(--dl-color-text-primary);
+  width: 846px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 53px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text002 {
+  color: var(--dl-color-text-secondary);
+  width: 846px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame12 {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-items: center;
+  border-color: rgba(99, 99, 102, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+  justify-content: center;
+}
+.murni-care-desktop-text004 {
+  color: var(--dl-color-neutral-600);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 8px;
+  margin-bottom: 0;
+}
+.murni-care-desktop-uilarrowright {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.murni-care-desktop-frame25 {
+  top: 1361px;
+  left: 80px;
+  width: 1280px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.murni-care-desktop-frame16 {
+  width: 519px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 133px;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-text006 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 53px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text008 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame24 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame22 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 24px;
+}
+.murni-care-desktop-frame18 {
+  width: 302px;
+  display: flex;
+  padding: 16px 20px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 2px 0px rgba(148, 168, 190, 0.1599999964237213) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  margin-right: 24px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-frame21 {
+  height: 138px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame20 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-ellipse1 {
+  width: 62px;
+  height: 62px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.murni-care-desktop-text010 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-text012 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame19 {
+  width: 302px;
+  display: flex;
+  padding: 16px 20px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 2px 0px rgba(148, 168, 190, 0.1599999964237213) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-frame211 {
+  height: 138px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame201 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-ellipse11 {
+  width: 62px;
+  height: 62px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.murni-care-desktop-text014 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-text016 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame23 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.murni-care-desktop-frame202 {
+  width: 302px;
+  display: flex;
+  padding: 16px 20px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 2px 0px rgba(148, 168, 190, 0.1599999964237213) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  margin-right: 24px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-frame212 {
+  height: 138px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame203 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-ellipse12 {
+  width: 62px;
+  height: 62px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.murni-care-desktop-text018 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-text020 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame213 {
+  width: 302px;
+  display: flex;
+  padding: 16px 20px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 0px 2px 0px rgba(148, 168, 190, 0.1599999964237213) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-frame214 {
+  height: 138px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame204 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-ellipse13 {
+  width: 62px;
+  height: 62px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.murni-care-desktop-text022 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-text024 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame36 {
+  top: 2582px;
+  left: 80px;
+  width: 1281px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame31 {
+  width: 846px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 80px;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-text026 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 53px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text028 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame35 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.murni-care-desktop-frame205 {
+  width: 411px;
+  height: 202px;
+  display: flex;
+  padding: 24px 24px 16px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-ellipse5 {
+  width: 117px;
+  height: 117px;
+  position: relative;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 16px;
+  margin-bottom: 10px;
+}
+.murni-care-desktop-ellipse6 {
+  width: 181px;
+  height: 181px;
+  z-index: 1;
+  position: relative;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 16px;
+  margin-bottom: 10px;
+}
+.murni-care-desktop-frame215 {
+  display: flex;
+  z-index: 2;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-deliverybox11 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-group {
+  top: 48.00039291381836px;
+  left: 3.761986017227173px;
+  width: 40.488014221191406px;
+  height: 48.00410461425781px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.murni-care-desktop-vector {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 48px;
+  position: absolute;
+}
+.murni-care-desktop-vector01 {
+  top: -41.72028350830078px;
+  left: 9.285516738891602px;
+  width: 10px;
+  height: 3px;
+  position: absolute;
+}
+.murni-care-desktop-vector02 {
+  top: -27.93789291381836px;
+  left: 16.248205184936523px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+}
+.murni-care-desktop-vector03 {
+  top: -29.54163360595703px;
+  left: 5.7151336669921875px;
+  width: 7px;
+  height: 1px;
+  position: absolute;
+}
+.murni-care-desktop-vector04 {
+  top: -21.72226905822754px;
+  left: 16.272388458251953px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+}
+.murni-care-desktop-vector05 {
+  top: -23.344144821166992px;
+  left: 5.70676326751709px;
+  width: 7px;
+  height: 1px;
+  position: absolute;
+}
+.murni-care-desktop-vector06 {
+  top: -15.48303508758545px;
+  left: 16.240623474121094px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+}
+.murni-care-desktop-vector07 {
+  top: -17.06289291381836px;
+  left: 5.719188690185547px;
+  width: 7px;
+  height: 1px;
+  position: absolute;
+}
+.murni-care-desktop-frame34 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-text030 {
+  color: var(--dl-color-text-primary);
+  width: 371px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.murni-care-desktop-text032 {
+  color: var(--dl-color-text-secondary);
+  width: 371px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame32 {
+  width: 411px;
+  height: 202px;
+  display: flex;
+  padding: 24px 24px 16px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-frame216 {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 10px;
+  flex-direction: column;
+}
+.murni-care-desktop-box11 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-group1 {
+  top: 48px;
+  left: 1.4999992847442627px;
+  width: 45px;
+  height: 47.990631103515625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.murni-care-desktop-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 48px;
+  position: absolute;
+}
+.murni-care-desktop-vector09 {
+  top: -14.999999046325684px;
+  left: 3.0057320594787598px;
+  width: 8px;
+  height: 4px;
+  position: absolute;
+}
+.murni-care-desktop-vector10 {
+  top: -13.096527099609375px;
+  left: 3.018054962158203px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.murni-care-desktop-frame341 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-text034 {
+  color: var(--dl-color-text-primary);
+  width: 371px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.murni-care-desktop-text036 {
+  color: var(--dl-color-text-secondary);
+  width: 371px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-ellipse51 {
+  width: 117px;
+  height: 117px;
+  z-index: 1;
+  position: relative;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 16px;
+  margin-bottom: 10px;
+}
+.murni-care-desktop-ellipse61 {
+  width: 181px;
+  height: 181px;
+  z-index: 2;
+  position: relative;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 16px;
+}
+.murni-care-desktop-frame33 {
+  width: 411px;
+  height: 202px;
+  display: flex;
+  padding: 24px 24px 16px 24px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-frame217 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 10px;
+  flex-direction: column;
+}
+.murni-care-desktop-skincare2 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-group2 {
+  top: 45.5625px;
+  left: 2.4374990463256836px;
+  width: 43.13737869262695px;
+  height: 43.125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.murni-care-desktop-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.murni-care-desktop-vector12 {
+  top: -26.250001907348633px;
+  left: 31.3125px;
+  width: 8px;
+  height: 4px;
+  position: absolute;
+}
+.murni-care-desktop-frame342 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-text038 {
+  color: var(--dl-color-text-primary);
+  width: 371px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 8px;
+}
+.murni-care-desktop-text040 {
+  color: var(--dl-color-text-secondary);
+  width: 371px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-ellipse52 {
+  width: 117px;
+  height: 117px;
+  z-index: 1;
+  position: relative;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 16px;
+  margin-bottom: 10px;
+}
+.murni-care-desktop-ellipse62 {
+  width: 181px;
+  height: 181px;
+  z-index: 2;
+  position: relative;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 16px;
+}
+.murni-care-desktop-frame38 {
+  top: 1905px;
+  left: 114px;
+  width: 1211px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame26 {
+  width: 846px;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 80px;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-text042 {
+  color: var(--dl-color-primary-main);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text044 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 53px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text046 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame30 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame28 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 24px;
+}
+.murni-care-desktop-rectangle1 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle2 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle11 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle7 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle12 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle8 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle13 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle14 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.murni-care-desktop-frame301 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.murni-care-desktop-rectangle71 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle81 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-rectangle9 {
+  width: 130px;
+  height: 100px;
+  position: relative;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.murni-care-desktop-frame51 {
+  top: 4455px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 40px 80px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.murni-care-desktop-frame60 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 133px;
+  flex-direction: column;
+}
+.murni-care-desktop-frame261 {
+  width: 628px;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 48px;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-text048 {
+  color: var(--dl-color-primary-main);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text050 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 53px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text052 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame59 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame57 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 24px;
+}
+.murni-care-desktop-frame52 {
+  width: 302px;
+  height: 60px;
+  display: flex;
+  padding: 20px 16px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-text054 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame53 {
+  width: 302px;
+  height: 60px;
+  display: flex;
+  padding: 20px 16px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-text056 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame58 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 24px;
+}
+.murni-care-desktop-frame54 {
+  width: 302px;
+  height: 60px;
+  display: flex;
+  padding: 20px 16px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 24px;
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-text058 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame55 {
+  width: 302px;
+  height: 60px;
+  display: flex;
+  padding: 20px 16px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-text060 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame56 {
+  width: 628px;
+  height: 120px;
+  display: flex;
+  padding: 20px 16px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 237, 241, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-text062 {
+  color: var(--dl-color-text-tertiary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame121 {
+  width: 189px;
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 24px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-main);
+}
+.murni-care-desktop-text064 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-rectangle15 {
+  width: 519px;
+  height: auto;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.murni-care-desktop-frame62 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 788px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-image: linear-gradient(129deg, rgba(25, 104, 109, 1) 0%, rgba(5, 84, 89, 1) 100%);
+}
+.murni-care-desktop-union {
+  top: 396px;
+  left: 71.11325073242188px;
+  width: 439px;
+  height: 16px;
+  position: absolute;
+}
+.murni-care-desktop-ellipse2 {
+  top: 857.2764892578125px;
+  left: 1082.7764892578125px;
+  width: 303px;
+  height: 303px;
+  opacity: 0.30;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 18px;
+}
+.murni-care-desktop-ellipse3 {
+  top: 893.5130004882812px;
+  left: 1218.012939453125px;
+  width: 501px;
+  height: 501px;
+  opacity: 0.30;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 18px;
+}
+.murni-care-desktop-ellipse4 {
+  top: 929.3833618164062px;
+  left: 1351.8834228515625px;
+  width: 697px;
+  height: 697px;
+  opacity: 0.30;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 18px;
+}
+.murni-care-desktop-frame40 {
+  top: 96px;
+  left: 841px;
+  width: 599px;
+  height: 692px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-image: linear-gradient(137deg, rgba(210, 242, 244, 0.20000000298023224) 0%, rgba(242, 191, 110, 0.30000001192092896) 100%);
+}
+.murni-care-desktop-rectangle16 {
+  top: 20px;
+  left: -20px;
+  width: 603px;
+  height: 660px;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+}
+.murni-care-desktop-shadow1 {
+  top: 159px;
+  left: 0px;
+  width: 482px;
+  height: 533px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-group11 {
+  top: 90px;
+  left: 147px;
+  width: 306px;
+  height: 602px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-asset21 {
+  top: 455px;
+  left: 288px;
+  width: 478px;
+  height: 431px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-frame27 {
+  top: 230px;
+  left: 80px;
+  width: 648px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame1 {
+  width: 648px;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 48px;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-text066 {
+  color: var(--dl-color-primary-surface);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 24px;
+}
+.murni-care-desktop-text068 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 60px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: 68px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 24px;
+  text-decoration: none;
+}
+.murni-care-desktop-text070 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame122 {
+  display: flex;
+  padding: 12px 24px;
+  position: relative;
+  align-items: center;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+  justify-content: center;
+}
+.murni-care-desktop-text072 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 8px;
+  margin-bottom: 0;
+}
+.murni-care-desktop-uilarrowright1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.murni-care-desktop-frame50 {
+  top: 3141px;
+  left: 80px;
+  width: 1281px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-frame37 {
+  width: 846px;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 80px;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-text074 {
+  color: var(--dl-color-primary-main);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text076 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 53px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text078 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame49 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.murni-care-desktop-frame43 {
+  width: 237px;
+  height: 296px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-image2 {
+  top: -44px;
+  left: -51px;
+  width: 340px;
+  height: 340px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-frame44 {
+  top: 220px;
+  left: 0px;
+  width: 237px;
+  height: 76px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.murni-care-desktop-text080 {
+  top: 23px;
+  left: 73px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: right;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame441 {
+  width: 237px;
+  height: 296px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 24px;
+  border-radius: 8px;
+  background-size: cover;
+  background-image: url("/playground_assets/264962b8-01ef-47b0-b8fe-df15464b1877-pffn-300w.undefined");
+}
+.murni-care-desktop-image21 {
+  top: -7px;
+  left: -34px;
+  width: 303px;
+  height: 303px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-frame442 {
+  top: 220px;
+  left: 0px;
+  width: 237px;
+  height: 76px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.murni-care-desktop-text082 {
+  top: 23px;
+  left: 63px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame45 {
+  width: 237px;
+  height: 296px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 24px;
+  border-radius: 8px;
+  background-size: cover;
+  background-image: url("/playground_assets/d9c66c0e-446f-4f50-9d36-a136ab28baca-muag-300w.undefined");
+}
+.murni-care-desktop-frame443 {
+  top: 220px;
+  left: 0px;
+  width: 237px;
+  height: 76px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.murni-care-desktop-text084 {
+  top: 23px;
+  left: 69px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame46 {
+  width: 237px;
+  height: 296px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 24px;
+  border-radius: 8px;
+}
+.murni-care-desktop-image3 {
+  top: 0px;
+  left: -3px;
+  width: 245px;
+  height: 367px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-frame444 {
+  top: 220px;
+  left: 0px;
+  width: 237px;
+  height: 76px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.murni-care-desktop-text086 {
+  top: 23px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame47 {
+  width: 237px;
+  height: 296px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.murni-care-desktop-image4 {
+  top: -29px;
+  left: -11px;
+  width: 248px;
+  height: 373px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-frame445 {
+  top: 220px;
+  left: 0px;
+  width: 237px;
+  height: 76px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.murni-care-desktop-text088 {
+  top: 23px;
+  left: 74px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame61 {
+  top: 5288px;
+  left: 0px;
+  width: 1440px;
+  height: 352px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-image: linear-gradient(145deg, rgba(16, 147, 155, 1) 0%, rgba(16, 147, 155, 1) 100%);
+}
+.murni-care-desktop-vector2 {
+  top: -95.5px;
+  left: -74.5px;
+  width: 1644px;
+  height: 430px;
+  opacity: 0.40;
+  position: absolute;
+}
+.murni-care-desktop-frame67 {
+  top: 40px;
+  left: 80px;
+  width: 1280px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.murni-care-desktop-frame64 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-image1 {
+  width: 185px;
+  height: 48px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 32px;
+}
+.murni-care-desktop-text090 {
+  color: rgba(255, 255, 255, 1);
+  width: 302px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame68 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.murni-care-desktop-frame621 {
+  width: 193px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 80px;
+  flex-direction: column;
+}
+.murni-care-desktop-text092 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text094 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text096 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text098 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text100 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame63 {
+  width: 193px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 80px;
+  flex-direction: column;
+}
+.murni-care-desktop-text102 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-frame69 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-icroundlocalphone {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 8px;
+}
+.murni-care-desktop-text104 {
+  color: rgba(255, 255, 255, 1);
+  width: 193px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame70 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.murni-care-desktop-materialsymbolsmailrounded {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 8px;
+}
+.murni-care-desktop-text106 {
+  color: rgba(255, 255, 255, 1);
+  width: 193px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.murni-care-desktop-frame65 {
+  width: 193px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.murni-care-desktop-text108 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-frame66 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.murni-care-desktop-icbaselinefacebook {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.murni-care-desktop-antdesigntwittercirclefilled {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.murni-care-desktop-icbaselinetelegram {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.murni-care-desktop-mdipinterest {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.murni-care-desktop-entyposociallinkedinwithcircle {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.murni-care-desktop-text110 {
+  top: 288px;
+  left: 569px;
+  color: rgba(255, 255, 255, 1);
+  width: 302px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.murni-care-desktop-line2 {
+  top: 264px;
+  left: 80px;
+  width: 1280px;
+  height: 0px;
+  position: absolute;
+}
+.murni-care-desktop-frame77 {
+  top: 3834px;
+  left: 80px;
+  width: 1360px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.murni-care-desktop-frame161 {
+  width: 629px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 125px;
+  flex-direction: column;
+  justify-content: center;
+}
+.murni-care-desktop-text112 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 53px;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+.murni-care-desktop-text114 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 28px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame76 {
+  width: 606px;
+  height: 441px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.murni-care-desktop-frame75 {
+  top: 143px;
+  left: 364px;
+  width: 242px;
+  height: 155px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 8px 0 0 8px;
+  background-color: var(--dl-color-primary-hover);
+}
+.murni-care-desktop-i-m-a-g-e11 {
+  top: 0px;
+  left: 309px;
+  width: 221px;
+  height: 441px;
+  position: absolute;
+  border-color: transparent;
+}
+.murni-care-desktop-frame71 {
+  top: 91px;
+  left: 71px;
+  width: 293px;
+  display: flex;
+  padding: 8px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(180, 233, 236, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-rectangle18 {
+  width: 60px;
+  height: 48px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 24px;
+  border-radius: 4px;
+}
+.murni-care-desktop-text116 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame73 {
+  top: 287px;
+  left: 166px;
+  width: 190px;
+  display: flex;
+  padding: 8px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(180, 233, 236, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-rectangle181 {
+  width: 60px;
+  height: 48px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 24px;
+  border-radius: 4px;
+}
+.murni-care-desktop-text118 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame72 {
+  top: 189px;
+  left: 6px;
+  width: 319px;
+  display: flex;
+  padding: 8px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(180, 233, 236, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  border-radius: 8px;
+  justify-content: flex-end;
+  background-color: var(--dl-color-gray-white);
+}
+.murni-care-desktop-text120 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 30px;
+  margin-right: 24px;
+  margin-bottom: 0;
+}
+.murni-care-desktop-rectangle182 {
+  width: 60px;
+  height: 48px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 4px;
+}
+.murni-care-desktop-navbar {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 32px 80px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.murni-care-desktop-image11 {
+  width: 123px;
+  height: 32px;
+  position: relative;
+  border-color: transparent;
+}
+.murni-care-desktop-frame11 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.murni-care-desktop-frame9 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 32px;
+}
+.murni-care-desktop-frame4 {
+  display: flex;
+  padding: 4px;
+  position: relative;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  /* border-width: Symbol(figma.mixed)px; */
+  margin-right: 16px;
+}
+.murni-care-desktop-text122 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame2 {
+  display: flex;
+  padding: 4px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 16px;
+  justify-content: center;
+}
+.murni-care-desktop-text124 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0px;
+  margin-bottom: 0;
+}
+.murni-care-desktop-uilangledown {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.murni-care-desktop-frame6 {
+  display: flex;
+  padding: 4px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.murni-care-desktop-text126 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame5 {
+  display: flex;
+  padding: 4px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.murni-care-desktop-text128 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-frame8 {
+  display: flex;
+  padding: 4px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.murni-care-desktop-text130 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.murni-care-desktop-line1 {
+  width: 24px;
+  height: 0px;
+  position: relative;
+  margin-right: 32px;
+}
+.murni-care-desktop-frame10 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.murni-care-desktop-uilsearch {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 16px;
+}
+.murni-care-desktop-frame3 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.murni-care-desktop-openmojiflagunitedkingdom {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 0px;
+}
+.murni-care-desktop-uilangledown1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
